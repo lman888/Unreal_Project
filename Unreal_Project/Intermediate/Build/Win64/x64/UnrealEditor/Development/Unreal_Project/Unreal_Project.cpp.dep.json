@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\repos\\unreal_game\\unreal_project\\unreal_project\\source\\unreal_project\\unreal_project.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\repos\\unreal_game\\unreal_project\\unreal_project\\intermediate\\build\\win64\\x64\\unreal_projecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\repos\\unreal_game\\unreal_project\\unreal_project\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unreal_project\\definitions.unreal_project.h",
+            "f:\\repos\\unreal_game\\unreal_project\\unreal_project\\source\\unreal_project\\unreal_project.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

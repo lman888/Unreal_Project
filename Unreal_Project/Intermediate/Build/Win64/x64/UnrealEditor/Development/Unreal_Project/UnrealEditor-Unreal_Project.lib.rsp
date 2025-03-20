@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Unreal_Project.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Repos\Unreal_Game\Unreal_Project\Unreal_Project\Intermediate\Build\Win64\x64\Unreal_ProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"F:\Repos\Unreal_Game\Unreal_Project\Unreal_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Unreal_Project\Unreal_Project.cpp.obj"
+"F:\Repos\Unreal_Game\Unreal_Project\Unreal_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Unreal_Project\Default.rc2.res"
+/OUT:"F:\Repos\Unreal_Game\Unreal_Project\Unreal_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Unreal_Project\UnrealEditor-Unreal_Project.lib"
